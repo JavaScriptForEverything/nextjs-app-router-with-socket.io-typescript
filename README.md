@@ -10,6 +10,10 @@ pnpm dev
 
 ## Follow Bellow Steps
 - /server.ts
+- /app/api/messages/route.ts
+- /app/page.tsx
+- /package.json
+- /tsconfig.json
 
 #### Step-1: /server.ts 	in root directory
 ```
