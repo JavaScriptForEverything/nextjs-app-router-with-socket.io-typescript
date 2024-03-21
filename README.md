@@ -152,8 +152,10 @@ export default App
 ```
 
 #### Step-4: /package.json 		: install express + socket.io
-`$ pnpm add express socket.io socket.io-client`
-`$ pnpm add -D nodemon ts-node`
+```
+$ pnpm add express socket.io socket.io-client
+$ pnpm add -D nodemon ts-node
+```
 
 ```
 	...
