@@ -2,8 +2,6 @@ import express from 'express'
 import { Server } from 'socket.io'
 import next from'next'
 
-import { connectionHandler } from './controllsers/socketController'
-
 const PORT = process.env.PORT || 3000
 
 const app = next({ dev: process.env.NODE_ENV !== 'production' })
